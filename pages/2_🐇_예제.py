@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title='Example - LLM Journey', page_icon=':rabbit:', layout='wide')
+st.set_page_config(page_title='예제 - LLM Journey', page_icon=':rabbit:', layout='wide')
 
-st.title('🐇 Example')
+st.title('🐇 예제')
 
 with st.expander("Zero-shot Prompting"):
     st.markdown("""
